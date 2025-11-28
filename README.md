@@ -1,67 +1,75 @@
-<div align="center">
-  <img height="150" src="https://www.bing.com/th/id/OGC.03a4a5f034bf0bafa661fd8a8aabedc8?o=7&pid=1.7&rm=3&rurl=https%3a%2f%2fmedia2.giphy.com%2fmedia%2fqgQUggAC3Pfv687qPC%2fgiphy.gif&ehk=UNun5zPmnW4nUznJsUJc0d3Ndbefg21rSRgHKXiATMQ%3d"  />
-</div>
+<!-- 👋 README profissional e animado por Alderlan Corrêa -->
 
-###
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Olá%2C+eu+sou+o+Alderlan+Corrêa!;Desenvolvedor+Fullstack+em+formação;Apaixonado+por+tecnologia+e+inovação!;Bem-vindo+ao+meu+GitHub!+🚀" alt="Typing SVG" />
+</h1>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/alderlan-corr%C3%AAa-247a7636a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+<p align="center">
+  🎓 Graduando em <b>Engenharia da Computação</b><br>
+  <b> 💻 Desenvolvedor Fullstack iniciante</b><br/>
+  💡 Apaixonado por transformar ideias em soluções reais através da tecnologia.
+</p>
 
-###
+---
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=96&widht=100&section=header&reversal=true&text=Seja%20bem%20vindo%F0%9F%91%8B!!&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
+### 🧠 Sobre mim
 
-###
+Sou um entusiasta da tecnologia e desde o início da minha jornada acadêmica venho me dedicando ao **desenvolvimento web**, explorando linguagens e ferramentas modernas.  
+Busco criar aplicações **eficientes, bem estruturadas e visualmente atrativas**, unindo design e código.  
 
-<h3 align="left">👩‍💻  Sobre Mim</h3>
+Atualmente, estudo **Node.js**, **APIs REST** e **bancos de dados**, expandindo meu conhecimento rumo ao **Fullstack**.
 
-###
+---
 
-<p align="left">Me Chamo Alderlan Correa,<br>Sou estudante de Engenharia da Computação ataualmente no 2º Semestre paralelamente estudando programação Front-end com foco em me tornar um Dev FullStack.</p>
+### 🧩 Tecnologias e Ferramentas
 
-###
+**Frontend**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-<h3 align="left">🛠 habilidades</h3>
+**Backend (em estudo)**  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-###
+**Ferramentas**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-</div>
+---
 
-###
+### 🚀 Objetivo
 
-<h3 align="left">🔥   Minhas  Stats :</h3>
+Seguir evoluindo como desenvolvedor, aprendendo novas tecnologias e construindo projetos que unam **design, lógica e inovação**.  
+Acredito que **curiosidade, colaboração e dedicação** são essenciais para o crescimento — tanto técnico quanto pessoal.
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alderlancorrea&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alderlancorrea&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+### 📊 Estatísticas do GitHub
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alderlancorrea&show_icons=true&theme=radical" alt="GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alderlancorrea&layout=compact&theme=radical" alt="Top Langs" height="180em"/>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alderlancorrea/alderlancorrea/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alderlancorrea/alderlancorrea/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alderlancorrea/alderlancorrea/output/pacman-contribution-graph.svg">
-</picture>
+---
 
-###[README.md](https://github.com/user-attachments/files/23377036/README.md)
+### 📈 Visitantes
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alderlancorrea&color=00D9FF&style=for-the-badge&label=VISITAS+NO+PERFIL" alt="Contador de visitas"/>
+</p>
+
+---
+
+### 🌐 Onde me encontrar
+
+📫 [LinkedIn](https://www.linkedin.com/in/alderlan-correa)  
+💻 [Portfólio (em breve)](https://github.com/alderlancorrea)  
+
+---
+
+✨ *“A cada novo aprendizado, percebo o quanto a tecnologia é capaz de unir criatividade e lógica — e é isso que me motiva a seguir nessa jornada.”*
